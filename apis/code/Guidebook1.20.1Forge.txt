@@ -1,0 +1,12 @@
+repositories {
+	maven {
+		url "https://www.cursemaven.com"
+		content {
+			includeGroup "curse.maven"
+		}
+	}
+}
+dependencies {
+	compileOnly fg.deobf("curse.maven:guidebook-253874:4760385")
+	runtimeOnly fg.deobf("curse.maven:guidebook-253874:4760385")
+}

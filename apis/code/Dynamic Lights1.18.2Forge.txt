@@ -1,0 +1,12 @@
+repositories {
+	maven {
+		url "https://www.cursemaven.com"
+		content {
+			includeGroup "curse.maven"
+		}
+	}
+}
+dependencies {
+	compileOnly fg.deobf("curse.maven:dynamiclights-227874:3735509")
+	runtimeOnly fg.deobf("curse.maven:dynamiclights-227874:3735509")
+}

@@ -1,0 +1,20 @@
+minecraft {
+	runs {
+		client {
+			property 'mixin.env.remapRefMap', 'true'
+			property 'mixin.env.refMapRemappingFile', "${projectDir}/build/createSrgToMcp/output.srg"
+		}	
+	}
+}  
+repositories {
+	maven {
+		url "https://www.cursemaven.com"
+		content {
+			includeGroup "curse.maven"
+		}
+	}
+}
+dependencies {
+	compileOnly fg.deobf("curse.maven:jade-324717:3681458")
+	runtimeOnly fg.deobf("curse.maven:jade-324717:3681458")
+}

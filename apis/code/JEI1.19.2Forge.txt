@@ -1,0 +1,16 @@
+repositories {
+	maven {
+	name = "Progwml6 maven"
+	url = "https://dvs1.progwml6.com/files/maven/"
+	}    
+	maven {
+	name = "ModMaven"
+	url = "https://modmaven.k-4u.nl"
+	}    
+}
+      
+dependencies {
+	compileOnly fg.deobf("mezz.jei:jei-1.19.2-common-api:11.5.0.297")
+	compileOnly fg.deobf("mezz.jei:jei-1.19.2-forge-api:11.5.0.297")
+	runtimeOnly fg.deobf("mezz.jei:jei-1.19.2-forge:11.5.0.297")
+}
