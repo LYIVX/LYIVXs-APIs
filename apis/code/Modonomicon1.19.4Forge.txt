@@ -1,0 +1,11 @@
+repositories {
+    maven {
+        url "https://dl.cloudsmith.io/public/klikli-dev/mods/maven/"
+        content {
+            includeGroup "com.klikli_dev"
+        }
+    }
+}
+dependencies {
+    implementation fg.deobf("com.klikli_dev:modonomicon-1.19.4-forge:1.33.1") 
+}
