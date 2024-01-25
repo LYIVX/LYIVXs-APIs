@@ -76,10 +76,17 @@
 <li>1.19.2 - Forge (<a href="https://www.curseforge.com/minecraft/mc-mods/pehkui/files/4823467" target="_blank" rel="noopener nofollow">3.7.11</a>)</li>
 <li>1.19.4 - Forge (<a href="https://www.curseforge.com/minecraft/mc-mods/pehkui/files/4823470" target="_blank" rel="noopener nofollow">3.7.11</a>)</li>
 <li>1.20.1 - Forge (<a href="https://www.curseforge.com/minecraft/mc-mods/pehkui/files/4974824" target="_blank" rel="noopener nofollow">3.7.12</a>)</li>
-</ul><p>&nbsp;</p>
-<p><img src="https://i.imgur.com/NIRNbXY.png" alt="API's"></p><p><em><strong>Changelog - 1.1.0</strong></em></p>
+</ul><p class="bg-danger"><strong>Modonomicon: </strong><a href="https://www.curseforge.com/minecraft/mc-mods/modonomicon" target="_blank" rel="noopener nofollow"><strong>[CureseForge]</strong></a><strong> - Requires JEI</strong></p>
+<ul><li>1.18.2 - Forge (<a href="https://www.curseforge.com/minecraft/mc-mods/modonomicon/files/4641770" target="_blank" rel="noopener nofollow">1.33.1</a>)</li>
+<li>1.19.2 - Forge (<a href="https://www.curseforge.com/minecraft/mc-mods/modonomicon/files/4675974" target="_blank" rel="noopener nofollow">1.34.0</a>)</li>
+<li>1.19.4 - Forge (<a href="https://www.curseforge.com/minecraft/mc-mods/modonomicon/files/4641902" target="_blank" rel="noopener nofollow">1.33.1</a>)</li>
+<li>1.20.1 - Forge (<a href="https://www.curseforge.com/minecraft/mc-mods/modonomicon/files/5058322" target="_blank" rel="noopener nofollow">1.57.0</a>)</li>
+</ul><p><img src="https://i.imgur.com/I6whQRZ.png" alt=""></p><p><em><strong>Changelog - 1.2.0</strong></em></p>
+<hr><p><em><strong><u>Added:</u></strong></em></p>
+<ul><li><em>Modonomicon</em></li>
+</ul><hr><p><em><strong>Changelog - 1.1.0</strong></em></p>
 <hr><p><em><strong><u>Added:</u></strong></em></p>
 <ul><li><em>Pehkui</em></li>
 </ul><p><em><strong><u>Updates:</u></strong></em></p>
-<ul><li><em>Fixed A lot Of The Api's Causing Build Errors,</em></li>
-</ul></div>
+<ul><li><em>Fixed A lot Of The Api's Causing Build Errors</em></li>
+</ul><hr><p><strong><u>ALL PREVIOUS VERSIONS OF THE PLUGIN ARE AVAILABLE ON THE GIT REPOSITORY</u></strong></p></div>
