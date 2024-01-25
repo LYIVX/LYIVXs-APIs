@@ -1,6 +1,6 @@
 LYIVX's API's
 LYIVX'sAPI's
-1.0.0
+1.2.0
 LYIVX
 Adds API's
 Made with MCreator plugin builder by NerdyPuzzle
