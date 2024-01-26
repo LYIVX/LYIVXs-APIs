@@ -15,14 +15,9 @@ minecraft {
 	}
 }  
 repositories {
-	maven {
-		url "https://www.cursemaven.com"
-		content {
-			includeGroup "curse.maven"
-		}
-	}
+    maven { url 'https://maven.blamejared.com' }
 }
 dependencies {
-	compileOnly fg.deobf("curse.maven:patchouli-306770:3846086")
-	runtimeOnly fg.deobf("curse.maven:patchouli-306770:3846086")
+    compileOnly fg.deobf("vazkii.patchouli:Patchouli:1.18.2-71.1:api")
+    runtimeOnly fg.deobf("vazkii.patchouli:Patchouli:1.18.2-71.1")
 }
