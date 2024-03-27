@@ -23,6 +23,6 @@ repositories {
 	}
 }
 dependencies {
-	compileOnly fg.deobf("curse.maven:terrablender-563928:5008700")
-	runtimeOnly fg.deobf("curse.maven:terrablender-563928:5008700")
+	compileOnly fg.deobf("curse.maven:terrablender-563928:5068218")
+	runtimeOnly fg.deobf("curse.maven:terrablender-563928:5068218")
 }

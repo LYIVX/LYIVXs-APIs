@@ -21,6 +21,6 @@ repositories {
     }
 }
 dependencies {
-	compileOnly fg.deobf('com.blamejared.crafttweaker:CraftTweaker-forge-1.19.2:10.1.53')
-	runtimeOnly fg.deobf('com.blamejared.crafttweaker:CraftTweaker-forge-1.19.2:10.1.53')
+	compileOnly fg.deobf('com.blamejared.crafttweaker:CraftTweaker-forge-1.19.2:10.1.55')
+	runtimeOnly fg.deobf('com.blamejared.crafttweaker:CraftTweaker-forge-1.19.2:10.1.55')
 }

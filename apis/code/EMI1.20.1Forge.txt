@@ -21,6 +21,6 @@ repositories {
 	}
 }
 dependencies {
-	compileOnly fg.deobf("dev.emi:emi-forge:1.1.0+1.20.1:api")
-	runtimeOnly fg.deobf("dev.emi:emi-forge:1.1.0+1.20.1") 
+	compileOnly fg.deobf("dev.emi:emi-forge:1.1.4+1.20.1:api")
+	runtimeOnly fg.deobf("dev.emi:emi-forge:1.1.4+1.20.1") 
 }

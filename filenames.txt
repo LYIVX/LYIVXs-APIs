@@ -1,5 +1,4 @@
 Jade
-JEI
 Patchouli
 Craft Tweaker
 Guidebook

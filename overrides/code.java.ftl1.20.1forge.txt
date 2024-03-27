@@ -1,0 +1,4 @@
+code.java.ftl
+temp_generator/forge-1.20.1/templates\code.java.ftl
+1.20.1
+forge

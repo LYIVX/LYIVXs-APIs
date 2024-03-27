@@ -7,6 +7,6 @@ repositories {
 	}
 }
 dependencies {
-	compileOnly fg.deobf("curse.maven:framedblocks-441647:4793884")
-	runtimeOnly fg.deobf("curse.maven:framedblocks-441647:4793884")
+	compileOnly fg.deobf("curse.maven:framedblocks-441647:5165696")
+	runtimeOnly fg.deobf("curse.maven:framedblocks-441647:5165696")
 }

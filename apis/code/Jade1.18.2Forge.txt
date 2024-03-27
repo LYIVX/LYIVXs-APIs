@@ -15,6 +15,6 @@ repositories {
 	}
 }
 dependencies {
-	compileOnly fg.deobf("curse.maven:jade-324717:4800837")
-	runtimeOnly fg.deobf("curse.maven:jade-324717:4800837")
+	compileOnly fg.deobf("curse.maven:jade-324717:5079263")
+	runtimeOnly fg.deobf("curse.maven:jade-324717:5079263")
 }

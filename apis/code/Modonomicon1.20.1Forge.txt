@@ -7,5 +7,5 @@ repositories {
     }
 }
 dependencies {
-    implementation fg.deobf("com.klikli_dev:modonomicon-1.20.1-forge:1.57.0") 
+    implementation fg.deobf("com.klikli_dev:modonomicon-1.20.1-forge:1.62.0") 
 }
